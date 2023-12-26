@@ -410,17 +410,18 @@ var map_cfg = {
             "comment": "Centre prepares ₹41,000 crore International Container Transhipment port"
         },
         "p5": {
-            "x": 157.5,
-            "y": 435.75,
+            "x": 138.09400000000002,
+            "y": 456.20500000000004,
             "color": "#ff0000",
             "colorOver": "#ffffff",
             "name": "",
             "shortname": "Kereala",
             "pointType": "marker",
             "radius": 5,
-            "textPos": "right-middle",
-            "link": "",
-            "comment": "1.White tufted royal butterfly spotted at Kalliyad\r\n2. Kollam district has become India's 1st Constitution literate district\r\n3. Wayanad becomes 1st district in the country to provide basic documents to all tribal people"
+            "textPos": "left-middle",
+            "comment": "1.White tufted royal butterfly spotted at Kalliyad\n2. Kollam district has become India's 1st Constitution literate district\n3. Wayanad becomes 1st district in the country to provide basic documents to all tribal people",
+            "tx": 131.6005890184997,
+            "ty": 456.3449993896484
         },
         "p6": {
             "x": 94.5,
@@ -431,26 +432,28 @@ var map_cfg = {
             "shortname": "Maharashtra",
             "pointType": "marker",
             "radius": 5,
-            "textPos": "right-middle",
-            "link": "",
-            "comment": "New Plateau type discovered"
+            "textPos": "left-middle",
+            "comment": "New Plateau type discovered",
+            "tx": 88.00658901849968,
+            "ty": 296.38999938964844
         },
         "p7": {
-            "x": 41.501,
-            "y": 217.503,
+            "x": 70.86999999999998,
+            "y": 217.50199999999995,
             "color": "#000000",
             "colorOver": "#ffffff",
             "name": "",
             "shortname": "Juna Khatiya(Kutch District)",
             "pointType": "star",
             "radius": 5,
-            "textPos": "right-middle",
-            "link": "",
-            "comment": "Excavations found rows of graves from 3200 BCE to 2600 BCE"
+            "textPos": "middle-top",
+            "comment": "Excavations found rows of graves from 3200 BCE to 2600 BCE",
+            "tx": 70.86999999999996,
+            "ty": 206.83776297760002
         },
         "p8": {
-            "x": 162.535,
-            "y": 50.26,
+            "x": 163.58399999999997,
+            "y": 57.077999999999996,
             "color": "#ff0000",
             "colorOver": "#ffffff",
             "name": "",
@@ -458,8 +461,9 @@ var map_cfg = {
             "pointType": "marker",
             "radius": 5,
             "textPos": "right-middle",
-            "link": "",
-            "comment": "Will become Ladakh's first biodiversity Heritage Site"
+            "comment": "Will become Ladakh's first biodiversity Heritage Site",
+            "tx": 170.05741433843386,
+            "ty": 57.217999389648426
         },
         "p9": {
             "x": 67.5,
@@ -470,9 +474,10 @@ var map_cfg = {
             "shortname": "Gandhinagar",
             "pointType": "marker",
             "radius": 5,
-            "textPos": "right-middle",
-            "link": "",
-            "comment": "Setting up of Data Embassies at GIFT City"
+            "textPos": "left-middle",
+            "comment": "Setting up of Data Embassies at GIFT City.\nFirst WHO Global summit on traditional medicine",
+            "tx": 61.00658901849971,
+            "ty": 254.38999938964844
         },
         "p10": {
             "x": 93,
@@ -483,13 +488,14 @@ var map_cfg = {
             "shortname": "Goa",
             "pointType": "star",
             "radius": 5,
-            "textPos": "right-middle",
-            "link": "",
-            "comment": "Saptakoteshwar Temple 350 yrs old restored by ASI"
+            "textPos": "left-middle",
+            "comment": "Saptakoteshwar Temple 350 yrs old restored by ASI",
+            "tx": 85,
+            "ty": 354
         },
         "p11": {
-            "x": 180.755,
-            "y": 404.259,
+            "x": 178.132,
+            "y": 399.014,
             "color": "#000000",
             "colorOver": "#ffffff",
             "name": "",
@@ -497,8 +503,9 @@ var map_cfg = {
             "pointType": "marker",
             "radius": 5,
             "textPos": "right-middle",
-            "link": "",
-            "comment": "India's first Marine Spatial Planning Framework"
+            "comment": "India's first Marine Spatial Planning Framework",
+            "tx": 184.60541433843386,
+            "ty": 399.1539993896484
         },
         "p12": {
             "x": 132.75,
@@ -528,7 +535,7 @@ var map_cfg = {
         },
         "p14": {
             "x": 137.25,
-            "y": 141,
+            "y": 139.42700000000002,
             "color": "#000000",
             "colorOver": "#ffffff",
             "name": "",
@@ -536,8 +543,9 @@ var map_cfg = {
             "pointType": "marker",
             "radius": 5,
             "textPos": "right-middle",
-            "link": "",
-            "comment": "Haryana's first Nuclear power plant"
+            "comment": "Haryana's first Nuclear power plant",
+            "tx": 143.72341433843388,
+            "ty": 139.56699938964843
         },
         "p15": {
             "x": 354.272,
@@ -566,8 +574,8 @@ var map_cfg = {
             "comment": "Declared as Biodiversity Heritage Site"
         },
         "p17": {
-            "x": 37,
-            "y": 226.498,
+            "x": 38.57299999999999,
+            "y": 228.07200000000003,
             "color": "#ff0000",
             "colorOver": "#ffffff",
             "name": "",
@@ -575,8 +583,9 @@ var map_cfg = {
             "pointType": "marker",
             "radius": 5,
             "textPos": "right-middle",
-            "link": "",
-            "comment": "Proposed 2nd home for Asiatic Lions"
+            "comment": "Proposed 2nd home for Asiatic Lions",
+            "tx": 45.04641433843389,
+            "ty": 228.21199938964847
         },
         "p18": {
             "x": 388.003,
@@ -587,10 +596,10 @@ var map_cfg = {
             "shortname": "Dibang wildlife sanctuary",
             "pointType": "marker",
             "radius": 5,
-            "textPos": "right-middle",
+            "textPos": "left-top",
             "comment": "Indigenous Idu Mishmis protesting a proposed tiger reserve",
-            "tx": 394.4764143384338,
-            "ty": 140.14299938964842
+            "tx": 384.5095890184996,
+            "ty": 131.47876236724852
         },
         "p19": {
             "x": 414.002,
@@ -601,9 +610,9 @@ var map_cfg = {
             "shortname": "Kibithoo Village",
             "pointType": "marker",
             "radius": 5,
-            "textPos": "right-middle",
+            "textPos": "left-middle",
             "comment": "Home ministry launched vibrant Village programme",
-            "tx": 420.47541433843384,
+            "tx": 407.5085890184996,
             "ty": 152.14199938964845
         },
         "p20": {
@@ -641,9 +650,10 @@ var map_cfg = {
             "shortname": "Eravikulam NP",
             "pointType": "marker",
             "radius": 5,
-            "textPos": "right-middle",
-            "link": "",
-            "comment": "It's first Fernarium"
+            "textPos": "left-middle",
+            "comment": "It's first Fernarium",
+            "tx": 123.03758901849969,
+            "ty": 425.32599938964836
         },
         "p23": {
             "x": 126,
@@ -672,22 +682,22 @@ var map_cfg = {
             "comment": ""
         },
         "p25": {
-            "x": 142,
-            "y": 39.26,
+            "x": 139.90200000000002,
+            "y": 37.162,
             "color": "#000000",
             "colorOver": "#ffffff",
             "name": "Ladakh",
             "shortname": "Ladakh",
             "pointType": "marker",
             "radius": 5,
-            "textPos": "right-middle",
+            "textPos": "left-top",
             "comment": "Northern light captured for the first time",
-            "tx": 148.47341433843388,
-            "ty": 39.39999938964843
+            "tx": 136.40858901849967,
+            "ty": 28.637762367248534
         },
         "p26": {
-            "x": 161.25,
-            "y": 193.5,
+            "x": 157.054,
+            "y": 199.793,
             "color": "#000000",
             "colorOver": "#ffffff",
             "name": "",
@@ -695,12 +705,13 @@ var map_cfg = {
             "pointType": "marker",
             "radius": 5,
             "textPos": "right-middle",
-            "link": "",
-            "comment": "First Indian city to track progress towards meeting SDG's"
+            "comment": "First Indian city to track progress towards meeting SDG's",
+            "tx": 163.52741433843386,
+            "ty": 199.93299938964842
         },
         "p27": {
-            "x": 153,
-            "y": 276.75,
+            "x": 157.721,
+            "y": 274.652,
             "color": "#000000",
             "colorOver": "#ffffff",
             "name": "",
@@ -708,8 +719,9 @@ var map_cfg = {
             "pointType": "marker",
             "radius": 5,
             "textPos": "right-middle",
-            "link": "",
-            "comment": "Foundation stone of LIGO-India"
+            "comment": "Foundation stone of LIGO-India",
+            "tx": 164.19441433843386,
+            "ty": 274.79199938964837
         },
         "p28": {
             "x": 272.247,
@@ -736,6 +748,213 @@ var map_cfg = {
             "textPos": "right-middle",
             "link": "",
             "comment": "Mesolithic Era Painting discovered"
+        },
+        "p30": {
+            "x": 104.67300000000002,
+            "y": 190.37400000000002,
+            "color": "#ff0000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Sambhar Lake",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-middle",
+            "comment": "A research unveiled the capability of Picocystic Salinarum (green algae) found in hypersaline soda lake Sambar to survive extreme environments",
+            "tx": 111.14641433843391,
+            "ty": 190.51399938964846
+        },
+        "p31": {
+            "x": 65.902,
+            "y": 242.74299999999997,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Dhordo",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "left-middle",
+            "comment": "Declared Ghol species as the state fish",
+            "tx": 59.4085890184997,
+            "ty": 242.88299938964838
+        },
+        "p32": {
+            "x": 138.75,
+            "y": 444.75,
+            "color": "#ff0000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Kozhikode",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "left-middle",
+            "comment": "Joined UNESCO creative cities network (UCCN)",
+            "tx": 132.25658901849968,
+            "ty": 444.8899993896484
+        },
+        "p33": {
+            "x": 173.753,
+            "y": 310.503,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Mudichu Thalapalli",
+            "pointType": "star",
+            "radius": 5,
+            "textPos": "right-middle",
+            "link": "",
+            "comment": "A 3000 years old iron Age Geoglyph circle discovered"
+        },
+        "p34": {
+            "x": 191.77499999999998,
+            "y": 208.12300000000002,
+            "color": "#ff0000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Gwalior",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-middle",
+            "comment": "Joined UNESCO creative cities network (UCCN)",
+            "tx": 198.24841433843386,
+            "ty": 208.26299938964843
+        },
+        "p35": {
+            "x": 392.5,
+            "y": 175.258,
+            "color": "#ff0000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Milak River",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "left-middle",
+            "comment": "A new fish Species Badis limaakumi was found",
+            "tx": 386.0065890184996,
+            "ty": 175.39799938964842
+        },
+        "p36": {
+            "x": 30.451,
+            "y": 217.657,
+            "color": "#ff0000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Surat",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-middle",
+            "comment": "First Largest Indigenous 700MWe Kakrapur Nuclear power plant (KAPP 3)",
+            "tx": 36.9244143384339,
+            "ty": 217.79699938964845
+        },
+        "p37": {
+            "x": 137.007,
+            "y": 408.224,
+            "color": "#ff0000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Nadugani and Nilgiris",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-middle",
+            "comment": "Lion tailed macaques spotted",
+            "tx": 143.48041433843386,
+            "ty": 408.36399938964837
+        },
+        "p38": {
+            "x": 159.22,
+            "y": 46.201,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Leh",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-middle",
+            "comment": "India's first ever hydrogen buses deployed",
+            "tx": 165.69341433843388,
+            "ty": 46.34099938964843
+        },
+        "p39": {
+            "x": 73.503,
+            "y": 179.752,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Jaisalmer",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-middle",
+            "link": "",
+            "comment": "Fossils of Tharosaurus Indicus a dinosaur species found"
+        },
+        "p41": {
+            "x": 91.85999999999999,
+            "y": 284.4800000000001,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Kaas Plateau",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "left-middle",
+            "comment": "Sediment of seasonal indicated a major shift in Indian summer monsoon",
+            "tx": 85.36658901849967,
+            "ty": 284.6199993896485
+        },
+        "p42": {
+            "x": 163.00599999999997,
+            "y": 434.9700000000001,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Porpanaikottai Site",
+            "pointType": "star",
+            "radius": 5,
+            "textPos": "right-middle",
+            "comment": "Items of Sangam Age Excavated",
+            "tx": 171.00599999999997,
+            "ty": 434.97
+        },
+        "p43": {
+            "x": 153.803,
+            "y": 265.303,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Amravati",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-middle",
+            "comment": "PM MITRA Textile park launched",
+            "tx": 160.27641433843385,
+            "ty": 265.44299938964843
+        },
+        "p44": {
+            "x": 152.331,
+            "y": 211.13699999999997,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Dhala Crater",
+            "pointType": "marker",
+            "radius": 5,
+            "textPos": "right-bottom",
+            "comment": "Ureilite meteorite has formed Dhala Crater",
+            "tx": 155.80441433843387,
+            "ty": 218.9412364120483
+        },
+        "p45": {
+            "x": 199.505,
+            "y": 336.499,
+            "color": "#000000",
+            "colorOver": "#ffffff",
+            "name": "",
+            "shortname": "Rudragiri Hillock, Guntur",
+            "pointType": "star",
+            "radius": 5,
+            "textPos": "right-middle",
+            "link": "",
+            "comment": "Fusion of Rock Art Found"
         }
     }
 }
